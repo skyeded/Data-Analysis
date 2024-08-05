@@ -1,7 +1,5 @@
 # <p align=center>Data-Analysis
 
----
-
 #### Car Sales Analysis
 
 Source File: [Car-Sales-Analysis](https://github.com/skyeded/Data-Analysis/blob/main/Car-Sales-Analysis.ipynb) </br>
